@@ -1,4 +1,4 @@
-const accessKey = "IdU3Z-zdGWHQghzXvrTeozK4IYPy5XfnWz39-FFBmU4"
+const accessKey = "YOUR API KEY HERE"
 
 const formElement = document.querySelector("form")
 const inputElement =document.getElementById("search-input")
